@@ -1,6 +1,6 @@
 # insomnia-plugin-ask-before-sending
 
-[![](https://img.shields.io/badge/npm-v1.0.0-blue)](https://www.npmjs.com/package/insomnia-plugin-ask-before-sending)
+[![](https://img.shields.io/npm/v/insomnia-plugin-ask-before-sending.svg)](https://www.npmjs.com/package/insomnia-plugin-ask-before-sending)
 [![](https://img.shields.io/badge/license-MIT-yellow)](https://github.com/brunobastosg/insomnia-plugin-ask-before-sending/blob/master/LICENSE)
 
 ## Table of Contents
