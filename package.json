@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-ask-before-sending",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Insomnia plugin that asks for confirmation before sending a request, useful for production environments.",
   "main": "index.js",
   "keywords": [
@@ -8,7 +8,7 @@
     "insomnia-plugin"
   ],
   "author": "Bruno Guimarães",
-  "license": "ISC",
+  "license": "MIT",
   "repository": "https://github.com/brunobastosg/insomnia-plugin-ask-before-sending",
   "insomnia": {
     "name": "ask-before-sending",
